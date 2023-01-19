@@ -1,7 +1,7 @@
 ![Modern Minimal Technology Background Facebook Cover - copia](https://user-images.githubusercontent.com/113929552/213526051-446758b0-5dc6-43ee-9a1e-4b502dfbc31a.png)
 
 
-## Sobre mi
+## 😃 Sobre mi
 Emigrar ha sido un gran reto para mí, comencé un proceso de adaptación y aprendizaje muy fuerte, lo cual me hizo salir de mi zona de confort, esto me llevo a pensar que necesitaba un cambio en mi vida y afrontar mis miedos, me replantee como persona y en lo profesional.
 Hoy día como desarrolladora web me siento fascinada con el solo hecho de tener herramientas que me permitan comunicarme con mi familia con solo Clic de distancia, quiero seguir contribuyendo en el área Tech para seguir innovando e inventando nuevas tecnologías que nos permitan estar más cerca de nuestras raíces.
 - Lenguaje: JavaScript (ES6), CSS, HTML.
